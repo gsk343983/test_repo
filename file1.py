@@ -3,4 +3,4 @@
 print("Hello World")
 Print("Only available in remote repo - Done by team member 1")
 print("Hi, I am Muskan")
-print("only available in remote repo - Done by team member 2")
+print("only available in remote repo - member 2")
