@@ -1,5 +1,2 @@
 # Line 1
-# Line 3 added in remote repo
-# Line 4 added in remote
-# Line 4 added in local
 # Line 2
